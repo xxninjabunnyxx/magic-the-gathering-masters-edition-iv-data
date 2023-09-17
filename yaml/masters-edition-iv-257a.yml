@@ -1,0 +1,133 @@
+---
+object: card
+id: 4e15ad45-dc96-48db-931c-1bbb95dfa580
+oracle_id: 33e85a8a-86df-4cdc-a9cc-8cbabe92c3c0
+multiverse_ids:
+- 220947
+mtgo_id: 38772
+mtgo_foil_id: 38773
+name: Urza's Mine
+lang: en
+released_at: '2011-01-10'
+uri: https://api.scryfall.com/cards/4e15ad45-dc96-48db-931c-1bbb95dfa580
+scryfall_uri: https://scryfall.com/card/me4/257a/urzas-mine?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/4/e/4e15ad45-dc96-48db-931c-1bbb95dfa580.jpg?1562913281
+  normal: https://cards.scryfall.io/normal/front/4/e/4e15ad45-dc96-48db-931c-1bbb95dfa580.jpg?1562913281
+  large: https://cards.scryfall.io/large/front/4/e/4e15ad45-dc96-48db-931c-1bbb95dfa580.jpg?1562913281
+  png: https://cards.scryfall.io/png/front/4/e/4e15ad45-dc96-48db-931c-1bbb95dfa580.png?1562913281
+  art_crop: https://cards.scryfall.io/art_crop/front/4/e/4e15ad45-dc96-48db-931c-1bbb95dfa580.jpg?1562913281
+  border_crop: https://cards.scryfall.io/border_crop/front/4/e/4e15ad45-dc96-48db-931c-1bbb95dfa580.jpg?1562913281
+mana_cost: ''
+cmc: 0.0
+type_line: Land — Urza's Mine
+oracle_text: "{T}: Add {C}. If you control an Urza's Power-Plant and an Urza's Tower,
+  add {C}{C} instead."
+colors: []
+color_identity: []
+keywords: []
+produced_mana:
+- C
+all_parts:
+- object: related_card
+  id: bfa6bfa2-0aee-4623-a17e-a77898deb16d
+  component: combo_piece
+  name: Urza's Construction Drone
+  type_line: Artifact Creature — Construct
+  uri: https://api.scryfall.com/cards/bfa6bfa2-0aee-4623-a17e-a77898deb16d
+- object: related_card
+  id: 92fae767-8c14-46ef-a548-4f66225defdb
+  component: combo_piece
+  name: Urza's Tower
+  type_line: Land — Urza's Tower
+  uri: https://api.scryfall.com/cards/92fae767-8c14-46ef-a548-4f66225defdb
+- object: related_card
+  id: 23c0e596-83c7-4d3f-903b-0c29276700ef
+  component: combo_piece
+  name: Urza's Mine
+  type_line: Land — Urza's Mine
+  uri: https://api.scryfall.com/cards/23c0e596-83c7-4d3f-903b-0c29276700ef
+- object: related_card
+  id: 937a24e4-f1f7-48d2-bc31-b219b2f26f04
+  component: combo_piece
+  name: Urza's Power Plant
+  type_line: Land — Urza's Power-Plant
+  uri: https://api.scryfall.com/cards/937a24e4-f1f7-48d2-bc31-b219b2f26f04
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: d38a13b7-6615-4c89-be7d-3b4eaacf1875
+set: me4
+set_name: Masters Edition IV
+set_type: masters
+set_uri: https://api.scryfall.com/sets/d38a13b7-6615-4c89-be7d-3b4eaacf1875
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ame4&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/me4?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/4e15ad45-dc96-48db-931c-1bbb95dfa580/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A33e85a8a-86df-4cdc-a9cc-8cbabe92c3c0&unique=prints
+collector_number: 257a
+digital: true
+rarity: common
+flavor_text: Mines became common as cities during the days of the artificers.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Anson Maddocks
+artist_ids:
+- 634430a7-b5c3-4e4a-b2ac-164e084e47c9
+illustration_id: e2b73e80-4786-4d60-a8be-55622adca874
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 1040
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: '0.04'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220947
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Urza%27s+Mine&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Urza%27s+Mine&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Urza%27s+Mine
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=Urza%27s+Mine&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall&view=grid
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Urza%27s+Mine&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/38772?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

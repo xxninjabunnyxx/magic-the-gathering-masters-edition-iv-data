@@ -1,0 +1,122 @@
+---
+object: card
+id: 4933d519-3cfa-4286-97d8-22adc10a1579
+oracle_id: 74b7fe23-5d3a-4092-8d78-7c0eba8f6f73
+multiverse_ids:
+- 202446
+mtgo_id: 38616
+mtgo_foil_id: 38617
+name: Tropical Island
+lang: en
+released_at: '2011-01-10'
+uri: https://api.scryfall.com/cards/4933d519-3cfa-4286-97d8-22adc10a1579
+scryfall_uri: https://scryfall.com/card/me4/254/tropical-island?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/4/9/4933d519-3cfa-4286-97d8-22adc10a1579.jpg?1562912131
+  normal: https://cards.scryfall.io/normal/front/4/9/4933d519-3cfa-4286-97d8-22adc10a1579.jpg?1562912131
+  large: https://cards.scryfall.io/large/front/4/9/4933d519-3cfa-4286-97d8-22adc10a1579.jpg?1562912131
+  png: https://cards.scryfall.io/png/front/4/9/4933d519-3cfa-4286-97d8-22adc10a1579.png?1562912131
+  art_crop: https://cards.scryfall.io/art_crop/front/4/9/4933d519-3cfa-4286-97d8-22adc10a1579.jpg?1562912131
+  border_crop: https://cards.scryfall.io/border_crop/front/4/9/4933d519-3cfa-4286-97d8-22adc10a1579.jpg?1562912131
+mana_cost: ''
+cmc: 0.0
+type_line: Land — Forest Island
+oracle_text: "({T}: Add {G} or {U}.)"
+colors: []
+color_identity:
+- G
+- U
+keywords: []
+produced_mana:
+- G
+- U
+all_parts:
+- object: related_card
+  id: 40cc6b1c-8f3d-4128-97ac-33381868ddd2
+  component: combo_piece
+  name: Shoreline Scout
+  type_line: Creature — Merfolk Scout
+  uri: https://api.scryfall.com/cards/40cc6b1c-8f3d-4128-97ac-33381868ddd2
+- object: related_card
+  id: 4933d519-3cfa-4286-97d8-22adc10a1579
+  component: combo_piece
+  name: Tropical Island
+  type_line: Land — Forest Island
+  uri: https://api.scryfall.com/cards/4933d519-3cfa-4286-97d8-22adc10a1579
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- mtgo
+reserved: true
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: d38a13b7-6615-4c89-be7d-3b4eaacf1875
+set: me4
+set_name: Masters Edition IV
+set_type: masters
+set_uri: https://api.scryfall.com/sets/d38a13b7-6615-4c89-be7d-3b4eaacf1875
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ame4&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/me4?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/4933d519-3cfa-4286-97d8-22adc10a1579/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A74b7fe23-5d3a-4092-8d78-7c0eba8f6f73&unique=prints
+collector_number: '254'
+digital: true
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jesper Myrfors
+artist_ids:
+- c011318e-8503-48c1-a990-46e50aff48a0
+illustration_id: 1064e64b-a67e-4bff-893a-a091e8acb052
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 439
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: '11.53'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=202446
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Tropical+Island&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Tropical+Island&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Tropical+Island
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=Tropical+Island&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall&view=grid
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Tropical+Island&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/38616?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

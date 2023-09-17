@@ -1,0 +1,110 @@
+---
+object: card
+id: 4eb41639-b96b-4789-b488-24da503ef1e2
+oracle_id: bbb005de-bbba-458e-87c1-912a004e80da
+multiverse_ids:
+- 202534
+mtgo_id: 38726
+mtgo_foil_id: 38727
+name: Gate to Phyrexia
+lang: en
+released_at: '2011-01-10'
+uri: https://api.scryfall.com/cards/4eb41639-b96b-4789-b488-24da503ef1e2
+scryfall_uri: https://scryfall.com/card/me4/82/gate-to-phyrexia?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/4/e/4eb41639-b96b-4789-b488-24da503ef1e2.jpg?1562913465
+  normal: https://cards.scryfall.io/normal/front/4/e/4eb41639-b96b-4789-b488-24da503ef1e2.jpg?1562913465
+  large: https://cards.scryfall.io/large/front/4/e/4eb41639-b96b-4789-b488-24da503ef1e2.jpg?1562913465
+  png: https://cards.scryfall.io/png/front/4/e/4eb41639-b96b-4789-b488-24da503ef1e2.png?1562913465
+  art_crop: https://cards.scryfall.io/art_crop/front/4/e/4eb41639-b96b-4789-b488-24da503ef1e2.jpg?1562913465
+  border_crop: https://cards.scryfall.io/border_crop/front/4/e/4eb41639-b96b-4789-b488-24da503ef1e2.jpg?1562913465
+mana_cost: "{B}{B}"
+cmc: 2.0
+type_line: Enchantment
+oracle_text: 'Sacrifice a creature: Destroy target artifact. Activate only during
+  your upkeep and only once each turn.'
+colors:
+- B
+color_identity:
+- B
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- mtgo
+reserved: true
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: d38a13b7-6615-4c89-be7d-3b4eaacf1875
+set: me4
+set_name: Masters Edition IV
+set_type: masters
+set_uri: https://api.scryfall.com/sets/d38a13b7-6615-4c89-be7d-3b4eaacf1875
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ame4&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/me4?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/4eb41639-b96b-4789-b488-24da503ef1e2/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abbb005de-bbba-458e-87c1-912a004e80da&unique=prints
+collector_number: '82'
+digital: true
+rarity: uncommon
+flavor_text: |-
+  "The warm rain of grease on my face immediately made it clear I had entered Phyrexia."
+  —Jarsyl, Diary
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Sandra Everingham
+artist_ids:
+- 8a8ac2c8-84c9-4274-9960-a19a97f0bde5
+illustration_id: 1969a879-15d5-4e01-9a07-088925498a60
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 11685
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: '0.04'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=202534
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Gate+to+Phyrexia&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Gate+to+Phyrexia&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Gate+to+Phyrexia
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=Gate+to+Phyrexia&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall&view=grid
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Gate+to+Phyrexia&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/38726?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
